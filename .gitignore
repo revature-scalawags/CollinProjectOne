@@ -1,0 +1,31 @@
+# Created by https://www.toptal.com/developers/gitignore/api/metals,bloop,vscode
+# Edit at https://www.toptal.com/developers/gitignore?templates=metals,bloop,vscode
+
+### Bloop ###
+.bloop/
+
+### Metals ###
+.metals/
+project/**/metals.sbt
+
+### vscode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# End of https://www.toptal.com/developers/gitignore/api/metals,bloop,vscode
+
+### input ###
+input/*
+
+### output ###
+output/*
+
+### target ###
+target/*
+
+### project ###
+project/*
