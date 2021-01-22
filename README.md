@@ -13,6 +13,7 @@ List of features:
 * Query months of data based on view count and amount of times trending.
 * Dynamically change query from main method.
 * Display results in an easy to digest format.
+
 To-do list:
 * Pull in data directly from youtube to potentially gather more than 2017 data.
 * Implement my own map and reduce method on the data before sending to hive.
